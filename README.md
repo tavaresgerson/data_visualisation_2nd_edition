@@ -11,7 +11,7 @@ Tradução adaptada para português brasileiro do livro
 #### Parte B - O Pensamento Oculto
 
 3. [Formulando seu Brief](/PartB/FormulatingYourBrief.md)
-4. Trabalhando com Dados
+4. [Trabalhando com Dados](/PartB/WorkingData.md)
 5. Establishing Your Editorial Thinking
 
 #### Parte C - Desenvolvendo sua solução de projeto
